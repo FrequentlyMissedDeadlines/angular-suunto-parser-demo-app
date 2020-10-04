@@ -1,0 +1,26 @@
+{
+  "name": "angular-suunto-parser-demo-app",
+  "version": "1.0.0",
+  "description": "Demo app for angular-suunto-parser library.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrequentlyMissedDeadlines/angular-suunto-parser-demo-app.git"
+  },
+  "author": "Frequently Missed Deadlines",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrequentlyMissedDeadlines/angular-suunto-parser-demo-app/issues"
+  },
+  "homepage": "https://github.com/FrequentlyMissedDeadlines/angular-suunto-parser-demo-app#readme",
+  "dependencies": {
+    "angular": "^1.8.0",
+    "angular-suunto-parser": "1.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}

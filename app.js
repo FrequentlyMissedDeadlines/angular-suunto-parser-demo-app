@@ -1,8 +1,3 @@
-# angular-suunto-parser-demo-app
-
-This is the demo application of [angular-suunto-parser](https://github.com/FrequentlyMissedDeadlines/angular-suunto-parser) awesome lib.
-
-``` javascript
 'use strict';
 
 //Import parser module
@@ -25,4 +20,3 @@ angular.module('demoApp', [
         });
     };
 }]);
-```
