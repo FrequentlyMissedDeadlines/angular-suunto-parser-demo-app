@@ -26,3 +26,9 @@ angular.module('demoApp', [
     };
 }]);
 ```
+
+To run the demo locally:
+```
+npm install
+node server.js
+```
