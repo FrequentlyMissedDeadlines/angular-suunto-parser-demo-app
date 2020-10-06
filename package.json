@@ -18,7 +18,7 @@
   "homepage": "https://github.com/FrequentlyMissedDeadlines/angular-suunto-parser-demo-app#readme",
   "dependencies": {
     "angular": "^1.8.0",
-    "@frequentlymisseddeadlines/angular-suunto-parser": "1.0.1"
+    "angular-suunto-parser": "1.0.3"
   },
   "devDependencies": {
     "express": "^4.17.1"
