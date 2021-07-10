@@ -1,6 +1,6 @@
 {
   "name": "angular-suunto-parser-demo-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demo app for angular-suunto-parser library.",
   "main": "server.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/FrequentlyMissedDeadlines/angular-suunto-parser-demo-app#readme",
   "dependencies": {
-    "angular": "^1.8.0",
+    "angular": "^1.8.2",
     "angular-suunto-parser": "1.0.16"
   },
   "devDependencies": {
